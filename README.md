@@ -1,13 +1,11 @@
-# Test Back-End for ShawAndPartners
+# Example crud TYPE_ORM nodeJS
 ## Made with NodeJS version v16.14.2
 
-## ☕ 🚀 Install back-end-test-shawandpartners
+## ☕ 🚀 Install
 ```
 cd root folder
 npm install
 ```
-## ☕ Run back-end-test-shawandpartners
+## ☕ Run
 ```
-npm start
-or
-node index.js
+npm run dev
